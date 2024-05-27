@@ -19,8 +19,6 @@ This project is a simple chat application where multiple users can join a chat r
 ## Features
 
 - Real-time communication
-- Multiple chat rooms
-- User authentication
 - Responsive design
 
 ## Prerequisites
